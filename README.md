@@ -6,7 +6,6 @@ This repository contains test task for Computational Linguist position at Evotor
 ```
 Python  > = 3.8
 Requests >= 2.24.0
-
 ```
 
 ### Installing
@@ -15,7 +14,6 @@ Requests >= 2.24.0
 2.  Run the program
  ```
 python3 evotor_test_task.py
-
 ```
 3.  Now you can play quiz game.
 
